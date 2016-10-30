@@ -1,0 +1,1 @@
+/home/pi/bench_script/programs/spectralnorm/spectralnorm.lua

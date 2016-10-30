@@ -1,0 +1,13 @@
+
+Thu, 27 Oct 2016 18:04:20 GMT
+
+MAKE:
+gcc -pipe -Wall -fomit-frame-pointer  spectralnorm.c -o spectralnorm.gcc_run -lm -lpthread -std=c99
+rm spectralnorm.c
+1.14s to complete and log all make actions
+
+COMMAND LINE:
+./spectralnorm.gcc_run 500
+
+PROGRAM OUTPUT:
+1.274224116

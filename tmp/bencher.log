@@ -1,0 +1,14 @@
+2016-10-28 03:04:19,631 DEBUG ndiff program not found
+2016-10-28 03:04:19,719 DEBUG highlight program not found
+2016-10-28 03:04:19,726 DEBUG mkdir /home/pi/bench_script/tmp/spectralnorm
+2016-10-28 03:04:19,729 DEBUG mkdir /home/pi/bench_script/tmp/spectralnorm/log
+2016-10-28 03:04:19,732 DEBUG mkdir /home/pi/bench_script/tmp/spectralnorm/dat
+2016-10-28 03:04:19,736 DEBUG mkdir /home/pi/bench_script/tmp/spectralnorm/code
+2016-10-28 03:04:25,622 INFO .OK spectralnorm.gcc [4]
+2016-10-28 03:04:48,165 INFO .OK spectralnorm.java-2.java [3]
+2016-10-28 03:09:43,030 INFO .OK spectralnorm.python3-5.python3 [2]
+2016-10-28 03:10:14,942 INFO .OK spectralnorm.lua [1]
+2016-10-28 03:10:14,948 INFO mkcsv building csv files from spectralnorm/dat
+2016-10-28 03:10:14,967 INFO copy *.csv files to /home/pi/bench_script/summary
+2016-10-28 03:10:14,970 INFO copy *.code files to /home/pi/bench_script/run_markup
+2016-10-28 03:10:14,987 INFO copy *.log files to /home/pi/bench_script/run_logs
