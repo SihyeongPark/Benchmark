@@ -46,7 +46,7 @@ For this benchmark measure performance(CPU and Memory useage, execution time), I
 
 ### How to Run
 
-This benchmark witten by Python and script files are located in **Benchmark/bin** directory. And I made *bin/run.sh* file can run benchmark easily. This shell code includes the job which remove existing result files. Benchmark sourcecodes are located in *Benchmark/program* directory.
+This benchmark witten by Python and script files are located in **Benchmark/bin** directory. And I made *bin/run.sh* file can run benchmark easily. This shell code includes the job which remove existing result files. Benchmark source codes are located in *Benchmark/program* directory.
 
 ```sh
 $ sudo chmod 755 run.sh // change permission
