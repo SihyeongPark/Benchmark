@@ -1,10 +1,12 @@
 # The Computer Language Benchmarks Game
 # $Id: planC.py,v 1.1 2012-12-29 19:19:31 igouy-guest Exp $
+# 2016-10-31 Sihyeong Park Modify
 
 """
 measure without libgtop2
 """
 __author__ =  'Isaac Gouy'
+__author__ = 'Sihyeong Park'
 
 
 from domain import Record
