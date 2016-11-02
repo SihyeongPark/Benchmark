@@ -64,6 +64,8 @@ $ ./run.sh              // benchmark will run
 |Java|51|93.9|13.61|2693|5341.49| 
 |Lua|40|91.9|2.09|1234|2457.91|
 
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/binarytrees.jpg)
+
  **2. fannkuch-redux**
 
 |Language|SLOC|CPU Usage(%)|Memory Usage(MB)|Execution Time(s)|Consumption Energy(mJ)|
