@@ -75,6 +75,8 @@ $ ./run.sh              // benchmark will run
 |Java|150|93.9|13.49|2660|5333.62|
 |Lua|40|92.9|0.67|1133|2178.28| 
 
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/fannkuchredux.jpg)
+
  **3.fata**
  
 |Language|SLOC|CPU Usage(%)|Memory Usage(MB)|Execution Time(s)|Consumption Energy(mJ)|
@@ -83,6 +85,8 @@ $ ./run.sh              // benchmark will run
 |C|103|91.8|0.00|107|203.92| 
 |Java|125|93.0|13.47|2781|5478.14| 
 |Lua|86|92.9|0.00|398|773.86|
+
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/fasta.jpg)
  
  **4. mandelbrot**
  
@@ -93,6 +97,8 @@ $ ./run.sh              // benchmark will run
 |Java|87|92.9|15.70|4509|8912.52| 
 |Lua|61|92.9|16.00|8623|16821.32|
 
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/mandelbrot.jpg)
+
  **5. n-body**
  
 |Language|SLOC|CPU Usage(%)|Memory Usage(MB)|Execution Time(s)|Consumption Energy(mJ)|
@@ -102,6 +108,8 @@ $ ./run.sh              // benchmark will run
 |Java|140|92.0|14.78|3304|6518.05| 
 |Lua|114|92.9|0.00|194|375.44|
 
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/n-body.jpg)
+
 **6. spectral-norm**
 
 |Language|SLOC|CPU Usage(%)|Memory Usage(MB)|Execution Time(s)|Consumption Energy(mJ)|
@@ -110,3 +118,5 @@ $ ./run.sh              // benchmark will run
 |C|40|92.1|0.93|3623|6878.66| 
 |Java|117|91.0|15.67|5247|10250.18|
 |Lua|33|93.8|1.40|30824|60390.60|
+
+![](https://github.com/SihyeongPark/Benchmark/blob/master/result_graph/spectralnorm.jpg)
