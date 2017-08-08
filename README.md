@@ -17,7 +17,7 @@ If you want to use this benchmark, these tools are required:
 
 ### Installation
 
-pstuil can installed by follows.
+pstuil can installed as follows.
 
 Debian:
 
