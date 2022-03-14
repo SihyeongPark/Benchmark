@@ -1,5 +1,5 @@
 
-The *Original* Behchmark "**The Computer Language Benchmarks Game**" can download from http://benchmarksgame.alioth.debian.org/.
+The *Original* Behchmark "**The Computer Language Benchmarks Game**" can download from https://benchmarksgame-team.pages.debian.net/benchmarksgame/index.html
 
 And also this benchmark follows BSD licence.
 
